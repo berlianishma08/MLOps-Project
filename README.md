@@ -10,7 +10,7 @@ Proyek ini mengimplementasikan pipeline MLOps untuk memprediksi kelangsungan hid
 ## Struktur Direktori
 MLOps-Project-Model/ <br />
 ├── Data <br />
-│   ├── clean                   # Data siap latih <br />
+│   ├── clean                   # Data siap latih
 │   └── raw                     # Data mentah awal <br />
 ├── Log                         # Catatan proses seperti pelatihan dan evaluasi <br />
 ├── Model <br />
