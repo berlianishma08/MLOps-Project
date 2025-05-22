@@ -18,7 +18,7 @@ MLOps-Project-Model/ <br />
 │   ├── model                   # Model yang sudah dilatih <br />
 │   └── preprocessor            # Objek preprocessing (scaler, encoder, dll) <br />
 ├── myenv                       # Virtual environment proyek <br />
-├── Notebook                    # Eksperimen dan analisis dengan Jupyter Notebook <br />
+├── Notebook                    # Eksperimen dan analisis dengan Jupyter Notebook <br/>
 ├── Result <br />
 │   ├── predict                 # Hasil prediksi data baru <br />
 │   └── scores                  # Skor evaluasi model <br />
